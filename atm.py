@@ -1,6 +1,7 @@
 balance = 10000
 pin = 1234
-
+name= "shekar"
+city="hyderabd"
 entered_pin = int(input("Enter your PIN: "))
 
 if entered_pin == pin:
